@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Stanislav Krastev
  * Java Fundamentals - PACKAGE_NAME
- * Date: June / 2022
+ * Date June / 2022
  */
 public class ComputerStore {
     public static void main(String[] args) {
