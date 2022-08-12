@@ -22,7 +22,6 @@ The course **"Programming Fundamentals with Java"** ends with a basic web projec
 - HTTP Basics
 - Arrays.Arrays_exercises
 - HTML & CSS Basics
-- Methods
 - Software Development Concepts
 - List
 - Objects and Classes
@@ -33,3 +32,10 @@ The course **"Programming Fundamentals with Java"** ends with a basic web projec
 - Database Basics
 - QA Introduction
 - Basic Web Project
+
+##
+<p align="center">
+  <img width="50%" src="https://user-images.githubusercontent.com/106014677/184357191-a2ecd8b9-23d2-4bcf-968f-8a13b579d11b.png">
+</p>
+
+![imagen](https://user-images.githubusercontent.com/106014677/184357093-90509153-a19a-45d0-a4aa-40ef5e178de1.png)
